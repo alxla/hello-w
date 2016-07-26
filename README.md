@@ -1,2 +1,3 @@
 # hello-w
-hello world first program
+hello world first program.
+Start of a new world.
